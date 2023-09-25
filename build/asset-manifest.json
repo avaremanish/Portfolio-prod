@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.80a7d72f.css",
+    "main.js": "/static/js/main.6737c6c8.js",
+    "static/media/about.png": "/static/media/about.a4644390879fd9112aea.png",
+    "static/media/portfolio1.png": "/static/media/portfolio1.a2141ff0644fa28eea1d.png",
+    "static/media/Pass.png": "/static/media/Pass.ffa29cf6180e7bed9bd5.png",
+    "static/media/Weatherapp.png": "/static/media/Weatherapp.7fb6609b6ad5388ec20c.png",
+    "static/media/Sushi.png": "/static/media/Sushi.81d2b5bdf2eaaa492c46.png",
+    "static/media/portfolio5.png": "/static/media/portfolio5.4fe45a0369421ed373c6.png",
+    "static/media/Bubble.png": "/static/media/Bubble.01a561db24ca1341caac.png",
+    "static/media/portfolio3.png": "/static/media/portfolio3.ce026e65acfccabce5ed.png",
+    "static/media/CVFinal.pdf": "/static/media/CVFinal.cd3b3ea61a87eef39dea.pdf",
+    "index.html": "/index.html",
+    "main.80a7d72f.css.map": "/static/css/main.80a7d72f.css.map",
+    "main.6737c6c8.js.map": "/static/js/main.6737c6c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80a7d72f.css",
+    "static/js/main.6737c6c8.js"
+  ]
+}
