@@ -85,7 +85,7 @@ This platform seamlessly blends tradition with modernity, mirroring our restaura
               Github{" "}
             </a>
             <a
-              href="https://sparshfashion.netlify.app/"
+              href="https://thelabelsparsh.netlify.app/"
               className="btn btn-primary"
               target="_blank">
               {" "}
