@@ -85,7 +85,7 @@ This platform seamlessly blends tradition with modernity, mirroring our restaura
               Github{" "}
             </a>
             <a
-              href="https://vocal-cupcake-f17d80.netlify.app/"
+              href="https://sparshfashion.netlify.app/"
               className="btn btn-primary"
               target="_blank">
               {" "}
