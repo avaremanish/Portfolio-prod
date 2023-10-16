@@ -1,5 +1,8 @@
 import React from "react";
 import "./Portfolio.css";
+import PJ1 from "../../Assests/Project1.png";
+import PJ2 from "../../Assests/Project2.png";
+import PJ3 from "../../Assests/Project3.png";
 import IMG1 from "../../Assests/Sushi.png";
 import IMG2 from "../../Assests/portfolio1.png";
 import IMG3 from "../../Assests/Weatherapp.png";
@@ -14,6 +17,76 @@ function Portfolio() {
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
+        <article className="portfolio__item"> 
+          <div className="portfolio__item-image">
+            <img src={PJ1} alt="" />
+          </div>
+
+          <h3>
+          JOY MATRINOMY 
+           
+          </h3>
+          <h4> A Full Stack Matrimonial Web App with MERN for optimal performance and scalability. Designed a user-friendly interface using HTML and CSS, React enhancing the user experience.Orchestrated a secure matchmaking platform, leveraging MongoDB and AWS for data management and performance optimization.</h4>
+          <div className="portfolio___item-cta">
+            {/* <a href="https://github.com/avaremanish/Burgerwebapp" className='btn' target='_blank'> Github </a> */}
+            <a
+              href="https://dev.dscmba1flu6w3.amplifyapp.com/"
+              className="btn btn-primary"
+              target="_blank">
+              {" "}
+              Live Demo{" "}
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={PJ2} alt="" />
+          </div>
+
+          <h3>
+        FLIP MONKEY - NFT Trading Web App
+           
+          </h3>
+          <h4>Spearheaded the front-end development of a cutting-edge NFT Trading Platform, leveraging React.js to craft a
+modular, component-based architecture that ensured code reusability and scalability. Orchestrated the design and implementation of an aesthetically pleasing and responsive user interface delivering a
+seamless and visually engaging experience for NFT collectors, artists, and investors across diverse devices. Played a pivotal role in creating a user-friendly web application, enabling users to effortlessly buy, sell, and trade
+non-fungible tokens (NFTs) within the booming NFT market, contributing to the platform’s success and user
+satisfaction. </h4>
+          <div className="portfolio___item-cta">
+            {/* <a href="https://github.com/avaremanish/Burgerwebapp" className='btn' target='_blank'> Github </a> */}
+            <a
+              href="https://www.flipmonkey.io/"
+              className="btn btn-primary"
+              target="_blank">
+              {" "}
+              Live Demo{" "}
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={PJ3} alt="" />
+          </div>
+
+          <h3>
+              KAUFETRONICS - E commerce Web App
+           
+          </h3>
+          <h4>Developed and optimized the frontend of an Electronics Components E-commerce Web App using React.js,
+enhancing user experience and responsiveness. Led the creation of reusable, modular components in React.js, improving code maintainability and streamlining
+development. Accomplished a visually appealing and responsive user interface with HTML and CSS, ensuring optimal
+cross-device performance.</h4>
+          <div className="portfolio___item-cta">
+            {/* <a href="https://github.com/avaremanish/Burgerwebapp" className='btn' target='_blank'> Github </a> */}
+            <a
+              href="https://www.flipmonkey.io/"
+              className="btn btn-primary"
+              target="_blank">
+              {" "}
+              Live Demo{" "}
+            </a>
+          </div>
+        </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
