@@ -79,7 +79,7 @@ cross-device performance.</h4>
           <div className="portfolio___item-cta">
             {/* <a href="https://github.com/avaremanish/Burgerwebapp" className='btn' target='_blank'> Github </a> */}
             <a
-              href="https://www.flipmonkey.io/"
+              href="https://www.kaufetronics-sro.cz/"
               className="btn btn-primary"
               target="_blank">
               {" "}
