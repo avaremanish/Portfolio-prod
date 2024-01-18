@@ -9,6 +9,7 @@ import IMG3 from "../../Assests/Weatherapp.png";
 import IMG4 from "../../Assests/portfolio3.png";
 import IMG5 from "../../Assests/Bubble.png";
 import IMG6 from "../../Assests/portfolio5.png";
+import IMG7 from "../../Assests/3dmodel.png";
 
 function Portfolio() {
   return (
@@ -56,6 +57,27 @@ satisfaction. </h4>
             {/* <a href="https://github.com/avaremanish/Burgerwebapp" className='btn' target='_blank'> Github </a> */}
             <a
               href="https://www.flipmonkey.io/"
+              className="btn btn-primary"
+              target="_blank">
+              {" "}
+              Live Demo{" "}
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG7} alt="" />
+          </div>
+
+          <h3>
+              3D META Website 
+           
+          </h3>
+          <h4>Developed a 3D module website to showcase Meta and Augmented reality .</h4>
+          <div className="portfolio___item-cta">
+            <a href="hhttps://github.com/avaremanish/3D-portfolio" className='btn' target='_blank'> Github </a>
+            <a
+              href="https://portfoliosbymk.netlify.app/"
               className="btn btn-primary"
               target="_blank">
               {" "}
