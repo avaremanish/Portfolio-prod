@@ -24,19 +24,19 @@ function About() {
                <article   className='about__card'>
                  <FaAward className='about__icon'/>
                  <h5> Experience</h5>
-                 <small> 2 years</small>
+                 <small> 2.5 years</small>
                </article>
 
                <article   className='about__card '>
                  <FiUsers className='about__icon'/>
                  <h5> Clients </h5>
-                 <small> 4+ </small>
+                 <small> 20+ </small>
                </article>
 
                <article   className='about__card '>
                  <VscFolderLibrary className='about__icon'/>
                  <h5> Projects </h5>
-                 <small> 9 +</small>
+                 <small> 15+</small>
                </article>
                   </div>
  
