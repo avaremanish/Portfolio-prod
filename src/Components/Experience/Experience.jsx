@@ -41,7 +41,7 @@ function Experience() {
           <article className='experience__details'>    
           <SiTailwindcss className="experience__details-icon"/>
           <div> 
-              <h4>TAILWIND CSS</h4>
+              <h4>Tailwind CSS</h4>
               <small className='text-light'> Intermediate </small>
           </div>
           </article>
