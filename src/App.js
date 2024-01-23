@@ -11,8 +11,11 @@ import Portfolio from './Components/Portfolio/Portfolio';
 import Services from './Components/Services/Services';
 import Testimonial from './Components/Testimonial/Testimonial';
 
+// import AOS.init();
+
 
 function App() {
+
   return (
     < >
    
