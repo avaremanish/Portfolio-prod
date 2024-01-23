@@ -10,6 +10,7 @@ import IMG4 from "../../Assests/portfolio3.png";
 import IMG5 from "../../Assests/Bubble.png";
 import IMG6 from "../../Assests/portfolio5.png";
 import IMG7 from "../../Assests/3dmodel.png";
+import IMG8 from "../../Assests/portfolio.8.png";
 
 function Portfolio() {
   return (
@@ -111,6 +112,27 @@ cross-device performance.</h4>
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
+            <img src={IMG8} alt="" />
+          </div>
+
+          <h3>
+           Concept Website
+           
+          </h3>
+          <h4> I've developed a static web page for as a concept website by using React.js, Javascript, HTML, and CSS. This sleek and user-friendly website showcases creativity and new design.</h4>
+          <div className="portfolio___item-cta">
+            <a href="https://github.com/avaremanish/sundownwebsite" className='btn' target='_blank'> Github </a>
+            <a
+              href="https://sundownbymk.netlify.app/"
+              className="btn btn-primary"
+              target="_blank">
+              {" "}
+              Live Demo{" "}
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
 
@@ -118,7 +140,7 @@ cross-device performance.</h4>
            BURGEER
            
           </h3>
-          <h4> I've developed a dynamic web application for a burger restaurant using React.js, Javascript, HTML, and CSS. This sleek and user-friendly website showcases an enticing menu, complete with mouthwatering burger options. Customers can easily browse through offerings, place orders, and even customize their burgers. With a responsive design, it seamlessly adapts to various devices, ensuring a smooth experience for users on both desktop and mobile. Incorporating modern web technologies, it delivers a visually appealing and interactive platform that enhances the restaurant's online presence and customer engagement. Whether you're a burger aficionado or just looking for a delicious meal, our website makes ordering a breeze.
+          <h4> I've developed a dynamic web application for a burger restaurant using React.js, Javascript, HTML, and CSS. This sleek and user-friendly website showcases an enticing menu, complete with mouthwatering burger options. Customers can easily browse through offerings, place orders, and even customize their burgers. With a responsive design, it seamlessly adapts to various devices, ensuring a smooth experience for users on both desktop and mobile.
 .</h4>
           <div className="portfolio___item-cta">
             <a href="https://github.com/avaremanish/Burgerwebapp" className='btn' target='_blank'> Github </a>
@@ -224,7 +246,7 @@ This platform seamlessly blends tradition with modernity, mirroring our restaura
             <img src={IMG5} alt="" />
           </div>
 
-          <h3> BUBBLE POP MANIA </h3>
+          <h3> BUBBLE POP MANIA (GAME) </h3>
           <h4>
           Excited to unveil my latest project: a dynamic bubble game that challenges reflexes and cognitive agility. Using the power of HTML, CSS, and JavaScript, I've created an engaging and interactive experience to put your skills to the test.
 
