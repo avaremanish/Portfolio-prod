@@ -164,8 +164,6 @@ cross-device performance.</h4>
 
 Combining React.js and Vue.js, we've crafted an engaging, minimalist design. Explore our menu, discover the freshest ingredients, and make reservations effortlessly. High-quality visuals and elegant animations capture the essence of sushi.
 
-This platform seamlessly blends tradition with modernity, mirroring our restaurant's ambiance and culinary expertise. Join us on this digital culinary adventure at SUSHISAKURA. Visit our portfolio to witness how we've reimagined the sushi dining experience with technology.
-
           </h4>
           <div className="portfolio___item-cta">
             <a href="https://github.com/avaremanish/Restaurantapp" className='btn' target='_blank'> Github </a>
@@ -182,6 +180,7 @@ This platform seamlessly blends tradition with modernity, mirroring our restaura
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG4} alt="" />
+
           </div>
 
           <h3> Online Shopping Store</h3>
@@ -303,7 +302,7 @@ Experience the power of technology in keeping you prepared for any weather event
           </div>
         </article>
       </div>
-    </section>
+    </section> 
   );
 }
 
